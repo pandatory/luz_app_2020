@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/luz_app_2020/precache-manifest.63552fe0abcef704de20f8347b382aa6.js"
+  "/luz_app_2020/precache-manifest.da83bb1f534ae8e192469679939acb0e.js"
 );
 
 self.addEventListener('message', (event) => {
