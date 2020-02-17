@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/luz_app_2020/static/css/main.716dc537.chunk.css",
+    "main.js": "/luz_app_2020/static/js/main.27a11591.chunk.js",
+    "main.js.map": "/luz_app_2020/static/js/main.27a11591.chunk.js.map",
+    "runtime-main.js": "/luz_app_2020/static/js/runtime-main.1552e9a1.js",
+    "runtime-main.js.map": "/luz_app_2020/static/js/runtime-main.1552e9a1.js.map",
+    "static/js/2.d595e611.chunk.js": "/luz_app_2020/static/js/2.d595e611.chunk.js",
+    "static/js/2.d595e611.chunk.js.map": "/luz_app_2020/static/js/2.d595e611.chunk.js.map",
+    "index.html": "/luz_app_2020/index.html",
+    "precache-manifest.63552fe0abcef704de20f8347b382aa6.js": "/luz_app_2020/precache-manifest.63552fe0abcef704de20f8347b382aa6.js",
+    "service-worker.js": "/luz_app_2020/service-worker.js",
+    "static/css/main.716dc537.chunk.css.map": "/luz_app_2020/static/css/main.716dc537.chunk.css.map",
+    "static/js/2.d595e611.chunk.js.LICENSE.txt": "/luz_app_2020/static/js/2.d595e611.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1552e9a1.js",
+    "static/js/2.d595e611.chunk.js",
+    "static/css/main.716dc537.chunk.css",
+    "static/js/main.27a11591.chunk.js"
+  ]
+}
